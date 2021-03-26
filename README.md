@@ -8,7 +8,7 @@
 
 ## 1. Création de la bdd PostgresSQL sur AWS RDS.
 
-On va Configurer un serveur PostgreSQL sur RDS, à partir de votre compte IAM d’AWS. 
+On va Configurer un serveur PostgreSQL sur RDS, à partir du compte IAM d’AWS. 
 une fois les paramètres de sécurité effectué, on va créer un docker compose avec une image postgres et une autre pgadmin.
 Le lancement du docker compose nous permet d'accéder directement à pgAdmin (localhost:8080) et de visualiser la bdd.
 [pgAdim](https://github.com/celine29730/Une-infra-dans-le-Cloud/blob/main/bddpgadmin.png)
