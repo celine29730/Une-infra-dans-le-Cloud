@@ -26,7 +26,18 @@ les fichiers necessaires pour le fonctionnement de l'API sont copiés sur Vs cod
 
 En utilisant l'URL de l'instance EC2 http://3.22.249.166:8800/docs, on peut visualiser les réslutats de nos deux requêtes issues de l'API.
 
+## *Liste des membres 
 ![liste des membres](https://github.com/celine29730/Une-infra-dans-le-Cloud/blob/main/requetemembre.png)
+
+## *10 premiers membres
+![liste des 1à premiers membres](https://github.com/celine29730/Une-infra-dans-le-Cloud/blob/main/10premiers.png)
+
+## 3. Création d'un bucket sur S3 pour sauvegarder la fichier SQL.
+on a créé un bucket sur AWS S3 nommé briefS3 qui va contenir le fichier SQL clubdata.sql
+
+[sauvegarde S3]
+
+
 
 
 
