@@ -35,7 +35,7 @@ En utilisant l'URL de l'instance EC2 http://3.22.249.166:8800/docs, on peut visu
 ## 3. Création d'un bucket sur S3 pour sauvegarder la fichier SQL.
 on a créé un bucket sur AWS S3 nommé briefS3 qui va contenir le fichier SQL clubdata.sql
 
-[sauvegarde S3]
+[sauvegarde S3](https://github.com/celine29730/Une-infra-dans-le-Cloud/blob/main/fichierS3.png)
 
 
 
